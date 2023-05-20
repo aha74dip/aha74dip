@@ -4,9 +4,9 @@ README.md
 
 ## URLs
 
-https://github.dev/aha74dip/aha74dip
+https://github.dev/aha74dip/aha74dip.github.io
 
-https://github.com/aha74dip/aha74dip
+https://github.com/aha74dip/aha74dip.github.io
 
 https://aha74dip.github.io
 
